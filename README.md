@@ -45,9 +45,8 @@ The platform provides role-based access to healthcare data and includes QR-based
 EDIAM-final-year-project/
 ├── healthcare-frontend/
 └── healthcare-backend/
-add:
+```
 
-```markdown
 ## API
 
 The backend provides 30+ REST APIs covering core healthcare workflows, including:
@@ -90,21 +89,25 @@ Make sure the following are installed:
 ```bash
 git clone YOUR_REPOSITORY_URL
 cd EDIAM-final-year-project
+```
+
+### Backend Setup
+
+```bash
 cd healthcare-backend
 npm install
 npm run dev
+```
 
+### Frontend Setup
 
-### Important correction from my previous answer
-
-You use **`package-lock.json`**, not `pnpm-lock.yaml`.
-
-So I **would not write `pnpm install`** in this README.
-
-Use:
+Open a new terminal:
 
 ```bash
+cd healthcare-frontend
 npm install
+npm run dev
+```
 
 ## Environment Variables
 
@@ -117,10 +120,12 @@ Before running the application locally:
 3. Copy the required variable names from the corresponding `.env.example` files.
 4. Add your local configuration values.
 
+> Never commit `.env` files, database credentials, JWT secrets, API keys, or other sensitive information to the repository.
+
 ## Live Demo
 
 [View Live Application](https://ediam-healthcare.vercel.app/)
 
-> Never commit `.env` files, database credentials, JWT secrets, API keys, or other sensitive information to the repository.
+## Project Status
 
-
+Completed

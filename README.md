@@ -44,7 +44,7 @@ The platform provides role-based access to healthcare data and includes QR-based
 ```text
 EDIAM-final-year-project/
 ├── healthcare-frontend/
-└── healthcare-backend/
+└── healthcare-backend/```
 
 ## API
 

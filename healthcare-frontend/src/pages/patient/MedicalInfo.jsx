@@ -159,7 +159,7 @@ const MedicalInfo = () => {
             <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
               <div>
                 <label className="label">Blood Group</label>
-                <select className="input" value={coreForm.bloodGroup} onChange={e => setCoreForm(f=>({...f,bloodGroup:e.target.value}))}>
+                <select className="input" value={coreForm?.bloodGroup} onChange={e => setCoreForm(f=>({...f,bloodGroup:e.target.value}))}>
                   {['unknown','A+','A-','B+','B-','AB+','AB-','O+','O-'].map(b => <option key={b}>{b}</option>)}
                 </select>
               </div>

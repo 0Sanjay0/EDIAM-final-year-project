@@ -19,6 +19,24 @@ The platform provides role-based access to healthcare data and includes QR-based
 - REST API-based frontend and backend communication
 - Responsive user interface
 
+  ## Screenshots
+
+### Home / Landing Page
+![EDIAM Home Page](<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f415a995-5778-436d-91ce-cf5a4c390adc" />
+)
+
+### Emergency Access
+![EDIAM Emergency Access](<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fed534db-8886-4032-9e19-bd64909c7bb1" />
+)
+
+### Patient Dashboard
+![EDIAM Patient Dashboard](<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c5ab9742-9cf8-465b-8d26-dfb7c7b40ceb" />
+)
+
+### Admin Dashboard
+![EDIAM Admin Dashboard](<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/21885d87-fa86-435a-a7a0-ae8e9d9d43a4" />
+)
+
 ## Technology Stack
 
 ### Frontend

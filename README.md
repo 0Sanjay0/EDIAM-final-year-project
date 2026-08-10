@@ -22,20 +22,17 @@ The platform provides role-based access to healthcare data and includes QR-based
   ## Screenshots
 
 ### Home / Landing Page
-![EDIAM Home Page](<img src="https://github.com/user-attachments/assets/6a73979d-5235-4a7c-8258-3ac27f910c0a" alt="EDIAM Home Page" width="800">
-)
+<img src="https://github.com/user-attachments/assets/6a73979d-5235-4a7c-8258-3ac27f910c0a" alt="EDIAM Home Page" width="800">
 
 ### Emergency Access
-![EDIAM Emergency Access](<img src="https://github.com/user-attachments/assets/1eba3ccf-6014-42f9-a0fc-9a0c293356ab" alt="EDIAM Emergency Page" width="800">
-)
+<img src="https://github.com/user-attachments/assets/1eba3ccf-6014-42f9-a0fc-9a0c293356ab" alt="EDIAM Emergency Page" width="800">
+
 
 ### Patient Dashboard
-![EDIAM Patient Dashboard](<img src="https://github.com/user-attachments/assets/90276374-d36b-4541-aade-ccc721951ad2" alt="EDIAM Patient Dashboard Page" width="800">
-)
+<img src="https://github.com/user-attachments/assets/90276374-d36b-4541-aade-ccc721951ad2" alt="EDIAM Patient Dashboard Page" width="800">
 
 ### Admin Dashboard
-![EDIAM Admin Dashboard](<img src="https://github.com/user-attachments/assets/cb87423d-1847-4754-93f6-66a7f3839da2" alt="EDIAM Admin Dashboard Page" width="800">
-)
+<img src="https://github.com/user-attachments/assets/cb87423d-1847-4754-93f6-66a7f3839da2" alt="EDIAM Admin Dashboard Page" width="800">
 
 ## Technology Stack
 
